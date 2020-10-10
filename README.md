@@ -1,3 +1,3 @@
-# CIpatron
+# LaraSuperAdmin
 
 Coming soon!
